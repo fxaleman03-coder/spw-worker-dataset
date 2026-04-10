@@ -1,7 +1,7 @@
 {
   "format": "spw-shared-manager-mandatory-training-dataset",
-  "version": 3,
-  "publishedAt": "2026-04-09T20:10:19.863791",
+  "version": 4,
+  "publishedAt": "2026-04-09T20:14:57.730968",
   "sourceLabel": "manager_mandatory_training_dropped_workbook.xlsx",
   "managerCount": 45,
   "entries": [
