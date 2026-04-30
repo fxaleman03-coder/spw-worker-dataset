@@ -1,7 +1,7 @@
 {
   "format": "spw-shared-manager-mandatory-training-dataset",
-  "version": 6,
-  "publishedAt": "2026-04-20T22:50:19.784914",
+  "version": 7,
+  "publishedAt": "2026-04-30T00:57:19.926363",
   "sourceLabel": "manager_mandatory_training_dropped_workbook.xlsx",
   "managerCount": 47,
   "entries": [
@@ -16,23 +16,38 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "columnKey": "event_learning_team_100_a",
+          "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "event_learning_team_100_a",
-          "name": "EVENT LEARNING TEAM 100 A",
+          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
+          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_sacffolding_535c",
+          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "notCompleted"
         },
         {
@@ -46,24 +61,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
-          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_sacffolding_535c",
-          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -78,34 +83,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -118,13 +103,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -140,34 +150,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -180,14 +170,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -202,34 +217,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -242,14 +237,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -264,33 +284,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -304,13 +304,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -326,33 +351,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -366,14 +371,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -388,34 +418,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -428,13 +438,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -450,33 +485,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -490,14 +505,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -512,34 +552,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -552,14 +572,39 @@
           "status": "noRecord"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "noRecord"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "noRecord"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "noRecord"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -574,33 +619,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -614,14 +639,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -636,33 +686,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -676,14 +706,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -698,33 +753,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -738,14 +773,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -760,34 +820,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -800,14 +840,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -822,23 +887,38 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "columnKey": "event_learning_team_100_a",
+          "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "event_learning_team_100_a",
-          "name": "EVENT LEARNING TEAM 100 A",
+          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
+          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_sacffolding_535c",
+          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "notCompleted"
         },
         {
@@ -852,24 +932,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
-          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_sacffolding_535c",
-          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "completed"
-        },
-        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -884,34 +954,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -924,13 +974,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -946,34 +1021,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -986,14 +1041,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1008,33 +1088,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -1048,14 +1108,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1070,34 +1155,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1110,13 +1175,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1132,34 +1222,14 @@
           "status": "notCompleted"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1172,14 +1242,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1194,34 +1289,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1234,13 +1309,38 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1256,34 +1356,14 @@
           "status": "notCompleted"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1296,13 +1376,38 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1318,33 +1423,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -1358,13 +1443,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1380,33 +1490,13 @@
           "status": "notCompleted"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -1420,13 +1510,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1442,33 +1557,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -1482,13 +1577,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1504,34 +1624,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1544,14 +1644,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1566,33 +1691,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -1606,14 +1711,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1628,34 +1758,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1668,14 +1778,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1690,23 +1825,38 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "columnKey": "event_learning_team_100_a",
+          "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "event_learning_team_100_a",
-          "name": "EVENT LEARNING TEAM 100 A",
+          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
+          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_principle_of_sacffolding_535c",
+          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "notCompleted"
         },
         {
@@ -1720,23 +1870,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
-          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_sacffolding_535c",
-          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -1752,34 +1892,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1792,14 +1912,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1814,34 +1959,14 @@
           "status": "notCompleted"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1854,14 +1979,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1876,34 +2026,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "notCompleted"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -1916,14 +2046,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -1938,33 +2093,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -1978,13 +2113,38 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -2000,23 +2160,38 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "columnKey": "event_learning_team_100_a",
+          "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "event_learning_team_100_a",
-          "name": "EVENT LEARNING TEAM 100 A",
+          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
+          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_sacffolding_535c",
+          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "notCompleted"
         },
         {
@@ -2030,24 +2205,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
-          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_sacffolding_535c",
-          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "completed"
-        },
-        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2062,33 +2227,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -2102,14 +2247,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2124,34 +2294,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -2164,13 +2314,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -2186,34 +2361,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -2226,14 +2381,39 @@
           "status": "noRecord"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "noRecord"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "noRecord"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "noRecord"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2248,34 +2428,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -2288,13 +2448,38 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -2310,34 +2495,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -2350,14 +2515,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2372,33 +2562,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -2412,14 +2582,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2434,33 +2629,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -2474,14 +2649,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2496,34 +2696,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -2536,14 +2716,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2558,33 +2763,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -2598,14 +2783,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2620,23 +2830,38 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "columnKey": "event_learning_team_100_a",
+          "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "event_learning_team_100_a",
-          "name": "EVENT LEARNING TEAM 100 A",
+          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
+          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_sacffolding_535c",
+          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
+          "status": "completed"
+        },
+        {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "notCompleted"
         },
         {
@@ -2650,24 +2875,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
-          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_sacffolding_535c",
-          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "completed"
-        },
-        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2682,33 +2897,13 @@
           "status": "notCompleted"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -2722,13 +2917,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
@@ -2744,33 +2964,13 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "completed"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "completed"
         },
         {
@@ -2784,14 +2984,39 @@
           "status": "completed"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2806,34 +3031,14 @@
           "status": "completed"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
           "status": "completed"
         },
         {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
           "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
         },
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
@@ -2846,14 +3051,39 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "completed"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "completed"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "completed"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "completed"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "completed"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "completed"
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
+          "status": "notCompleted"
         }
       ]
     },
@@ -2868,33 +3098,13 @@
           "status": "notCompleted"
         },
         {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
           "name": "CPR/FA/AED/BBP 095 A 705 A",
           "status": "notCompleted"
         },
         {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "notCompleted"
-        },
-        {
           "columnKey": "event_learning_team_100_a",
           "name": "EVENT LEARNING TEAM 100 A",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "notCompleted"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
           "status": "notCompleted"
         },
         {
@@ -2908,13 +3118,38 @@
           "status": "notCompleted"
         },
         {
+          "columnKey": "osha_30_hour_oti_030",
+          "name": "OSHA 30 Hour OTI 030",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "intro_to_manager_human_performance_004",
+          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "crane_management_fundamentals_415_a",
+          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_principle_of_confined_space_720_b",
+          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
+          "status": "notCompleted"
+        },
+        {
+          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
+          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
+          "status": "notCompleted"
+        },
+        {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
           "status": "notCompleted"
         },
         {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
+          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
+          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
           "status": "notCompleted"
         }
       ]
