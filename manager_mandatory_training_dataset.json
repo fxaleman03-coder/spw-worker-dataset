@@ -1,7 +1,7 @@
 {
   "format": "spw-shared-manager-mandatory-training-dataset",
-  "version": 7,
-  "publishedAt": "2026-04-30T00:57:19.926363",
+  "version": 8,
+  "publishedAt": "2026-05-18T11:58:01.253165",
   "sourceLabel": "manager_mandatory_training_dropped_workbook.xlsx",
   "managerCount": 47,
   "entries": [
@@ -800,7 +800,7 @@
         {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
@@ -1219,7 +1219,7 @@
         {
           "columnKey": "human_performance_004_a",
           "name": "HUMAN PERFORMANCE 004 A",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
@@ -1353,7 +1353,7 @@
         {
           "columnKey": "human_performance_004_a",
           "name": "HUMAN PERFORMANCE 004 A",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
@@ -1487,7 +1487,7 @@
         {
           "columnKey": "human_performance_004_a",
           "name": "HUMAN PERFORMANCE 004 A",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
@@ -1956,7 +1956,7 @@
         {
           "columnKey": "human_performance_004_a",
           "name": "HUMAN PERFORMANCE 004 A",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
