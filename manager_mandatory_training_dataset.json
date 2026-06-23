@@ -1,9 +1,9 @@
 {
   "format": "spw-shared-manager-mandatory-training-dataset",
-  "version": 8,
-  "publishedAt": "2026-05-18T11:58:01.253165",
+  "version": 9,
+  "publishedAt": "2026-06-22T22:41:30.383421",
   "sourceLabel": "manager_mandatory_training_dropped_workbook.xlsx",
-  "managerCount": 47,
+  "managerCount": 46,
   "entries": [
     {
       "employeeNumber": "144654",
@@ -68,7 +68,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -269,7 +269,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -336,7 +336,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -403,7 +403,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -497,7 +497,7 @@
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
           "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "advance_principle_of_sacffolding_535c",
@@ -537,74 +537,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
-        }
-      ]
-    },
-    {
-      "employeeNumber": "148423",
-      "name": "BRYAN HARRIS",
-      "title": "1- Concrete Senior Superintendent",
-      "trainings": [
-        {
-          "columnKey": "human_performance_004_a",
-          "name": "HUMAN PERFORMANCE 004 A",
           "status": "completed"
-        },
-        {
-          "columnKey": "cpr_fa_aed_bbp_095_a_705_a",
-          "name": "CPR/FA/AED/BBP 095 A 705 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "event_learning_team_100_a",
-          "name": "EVENT LEARNING TEAM 100 A",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
-          "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_principle_of_sacffolding_535c",
-          "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "osha_30_hour_oti_030",
-          "name": "OSHA 30 Hour OTI 030",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "intro_to_manager_human_performance_004",
-          "name": "INTRO TO MANAGER HUMAN PERFORMANCE 004",
-          "status": "completed"
-        },
-        {
-          "columnKey": "crane_management_fundamentals_415_a",
-          "name": "CRANE MANAGEMENT FUNDAMENTALS 415 A",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_confined_space_720_b",
-          "name": "ADVANCE PRINCIPLE OF CONFINED SPACE 720 B",
-          "status": "noRecord"
-        },
-        {
-          "columnKey": "advance_priciple_of_excavations_trenches_435_b",
-          "name": "ADVANCE PRICIPLE OF EXCAVATIONS/TRENCHES 435 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "advance_principle_of_silica_735_b",
-          "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
-          "status": "completed"
-        },
-        {
-          "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
-          "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
         }
       ]
     },
@@ -805,7 +738,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1006,7 +939,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1140,7 +1073,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1274,7 +1207,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1676,7 +1609,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1743,7 +1676,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1810,7 +1743,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -1944,7 +1877,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -2279,7 +2212,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -2346,7 +2279,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -2743,12 +2676,12 @@
         {
           "columnKey": "advance_principle_of_silica_735_b",
           "name": "ADVANCE PRINCIPLE OF SILICA 735 B",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -3016,7 +2949,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -3150,7 +3083,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     }
