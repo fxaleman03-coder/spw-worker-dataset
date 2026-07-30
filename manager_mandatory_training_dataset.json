@@ -1,7 +1,7 @@
 {
   "format": "spw-shared-manager-mandatory-training-dataset",
-  "version": 9,
-  "publishedAt": "2026-06-22T22:41:30.383421",
+  "version": 10,
+  "publishedAt": "2026-07-30T13:07:44.777300",
   "sourceLabel": "manager_mandatory_training_dropped_workbook.xlsx",
   "managerCount": 46,
   "entries": [
@@ -631,7 +631,7 @@
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
           "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "advance_principle_of_sacffolding_535c",
@@ -671,7 +671,7 @@
         {
           "columnKey": "pre_ground_disturbance_risk_assessment_432_a",
           "name": "PRE-GROUND DISTURBANCE RISK ASSESSMENT 432 A",
-          "status": "notCompleted"
+          "status": "completed"
         }
       ]
     },
@@ -899,12 +899,12 @@
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
           "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "advance_principle_of_sacffolding_535c",
           "name": "ADVANCE PRINCIPLE OF SACFFOLDING 535C",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "osha_30_hour_oti_030",
@@ -2172,7 +2172,7 @@
         {
           "columnKey": "advance_principles_of_fall_protection_and_fall_rescue_440_c",
           "name": "ADVANCE PRINCIPLES OF FALL PROTECTION AND FALL RESCUE 440 C",
-          "status": "notCompleted"
+          "status": "completed"
         },
         {
           "columnKey": "advance_principle_of_sacffolding_535c",
